@@ -1,0 +1,24 @@
+.calculatorContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 32px;
+    border-radius: 6px;
+    background-color: rgb(92, 92, 92);
+    border-radius: 4px;
+    box-shadow: rgba(0,0,0,0.8) 10px 0 10px;
+}
+
+.screen {
+    // width: 400px;
+    height: 48px;
+    background-color: black;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 8px;;
+    border-radius: 4px;
+    box-shadow: rgba(0,0,0,0.8) 10px 0 10px;
+    font-size: 35px;
+}

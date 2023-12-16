@@ -1,0 +1,44 @@
+.boxContainer {
+    height: 68px;
+    width: 20%;
+    background-color: grey;
+    color: white;
+    margin-top: 12px;
+    margin-left: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    box-shadow: rgba(0,0,0,0.8) 10px 0 10px;
+    // box-shadow: rgba(0,0,0,0.8) 0 0 10px;
+}
+
+.redBoxContainer {
+    height: 68px;
+    width: 46%;
+    background-color: red;
+    color: white;
+    margin-top: 12px;
+    margin-left: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    // box-shadow: 4px;
+    box-shadow: rgba(0,0,0,0.8) 10px 0 10px;
+}
+
+.bigBoxContainer {
+    height: 68px;
+    width: 46%;
+    background-color: grey;
+    color: white;
+    margin-top: 12px;
+    margin-left: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    // box-shadow: 4px;
+    box-shadow: rgba(0,0,0,0.8) 10px 0 20px;
+}
